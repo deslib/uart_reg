@@ -1,0 +1,9 @@
+../rtl/uart/baudrate.v
+../rtl/uart/receiver.v
+../rtl/uart/transmitter.v
+../rtl/uart/uart.v
+../rtl/uart/tb_uart.v
+../rtl/top.sv
+../tb/tb_top.sv
+../rtl/reg/uart_cmder.sv
+../rtl/reg/reg_file.sv
